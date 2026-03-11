@@ -1,0 +1,11 @@
+{
+  "issue": {
+    "key": "API-32",
+    "fields": {
+      "summary": "Create API Portal Main Page",
+      "description": "Please create the main API Portal page based on this Figma design:\n\nhttps://www.figma.com/design/F2lkYCId2xMqcd9RuXL20B/API-Portal?node-id=278-7350&m=dev\n\nRequirements:\n- Full page layout with navigation, sidebar, and content\n- Responsive design\n- Follow UJET design system (Blue: #0271F3)\n\nTech stack: Next.js 14, React, TypeScript, Tailwind CSS",
+      "labels": ["frontend", "ui", "figma", "api-portal"]
+    }
+  }
+}
+
