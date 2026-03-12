@@ -1,0 +1,23 @@
+{
+  "issueKey": "API-33",
+  "summary": "QuickStart Page",
+  "figmaUrl": "https://www.figma.com/design/F2lkYCId2xMqcd9RuXL20B/API-Portal?node-id=435-28505&m=dev",
+  "targetRoute": "/design/",
+  "branchName": "feat/API-33-1773292759080",
+  "reusableComponents": [],
+  "forbiddenChanges": [],
+  "acceptanceCriteria": [],
+  "designSummary": {
+    "fileName": "API Portal",
+    "fileKey": null,
+    "lastModified": "2026-03-12T04:49:36Z",
+    "version": "2329911632821867157",
+    "node": {
+      "name": "API Portal"
+    },
+    "dimensions": null,
+    "colors": [],
+    "typography": [],
+    "components": []
+  }
+}
