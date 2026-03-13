@@ -1,0 +1,23 @@
+{
+  "issueKey": "API-46",
+  "summary": "SSO Sign-IN page",
+  "figmaUrl": "https://www.figma.com/design/F2lkYCId2xMqcd9RuXL20B/API-Portal?node-id=512-49783&m=dev",
+  "targetRoute": "/design/",
+  "branchName": "feat/API-46-1773386268982",
+  "reusableComponents": [],
+  "forbiddenChanges": [],
+  "acceptanceCriteria": [],
+  "designSummary": {
+    "fileName": "API Portal",
+    "fileKey": null,
+    "lastModified": "2026-03-13T07:17:37Z",
+    "version": "2330332776401601754",
+    "node": {
+      "name": "API Portal"
+    },
+    "dimensions": null,
+    "colors": [],
+    "typography": [],
+    "components": []
+  }
+}
